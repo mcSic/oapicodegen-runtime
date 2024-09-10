@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/mcSic/oapicodegen-runtime/types"
 	"github.com/stretchr/testify/assert"
 )
 

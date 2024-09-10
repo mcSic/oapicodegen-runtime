@@ -28,7 +28,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/mcSic/oapicodegen-runtime/types"
 )
 
 // Parameter escaping works differently based on where a header is found

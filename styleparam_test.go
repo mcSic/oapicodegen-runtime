@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/mcSic/oapicodegen-runtime/types"
 	"github.com/stretchr/testify/assert"
 )
 

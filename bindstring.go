@@ -21,7 +21,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/mcSic/oapicodegen-runtime/types"
 )
 
 // BindStringToObject takes a string, and attempts to assign it to the destination

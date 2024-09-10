@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/mcSic/oapicodegen-runtime/types"
 )
 
 // BindStyledParameter binds a parameter as described in the Path Parameters
